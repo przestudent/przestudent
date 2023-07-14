@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I am a passionate and aspiring junior front-end de
 
 ## 🔧 Technologies I Know and Specialize In
 
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,redux,tailwind,prisma,planetscale,nodejs,git,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,prisma,planetscale,redux,nodejs,git,mysql)](https://skillicons.dev)
 
 ## 🤝 Let's Connect
 - [LinkedIn](linkedin.com/in/przemyslaw-palac)
